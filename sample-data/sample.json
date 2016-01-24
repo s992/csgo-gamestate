@@ -1,0 +1,5739 @@
+[
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611401
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "activity": "menu"
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611431
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 0,
+      "team_ct": {
+        "score": 0
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "unconnected",
+      "activity": "playing",
+      "state": {
+        "health": 0,
+        "armor": 0,
+        "helmet": false,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 1000,
+        "round_kills": 0,
+        "round_killhs": 0
+      },
+      "weapons": {},
+      "match_stats": {
+        "kills": 0,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 0
+      }
+    },
+    "previously": {
+      "player": {
+        "name": "seaN",
+        "activity": "menu"
+      }
+    },
+    "added": {
+      "player": {
+        "state": true,
+        "weapons": true,
+        "match_stats": true
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611433
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 0,
+      "team_ct": {
+        "score": 0
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "activity": "playing",
+      "state": {
+        "health": 0,
+        "armor": 0,
+        "helmet": false,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 1000,
+        "round_kills": 0,
+        "round_killhs": 0
+      },
+      "weapons": {},
+      "match_stats": {
+        "kills": 0,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 0
+      }
+    },
+    "previously": {
+      "player": {
+        "name": "unconnected"
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611434
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 0,
+      "team_ct": {
+        "score": 0
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "freezetime"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 1000,
+        "round_kills": 0,
+        "round_killhs": 0
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_usp_silencer",
+          "paintkit": "cu_kaiman",
+          "type": "Pistol",
+          "ammo_clip": 12,
+          "ammo_clip_max": 12,
+          "ammo_reserve": 24,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 0,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 0
+      }
+    },
+    "previously": {
+      "round": {
+        "phase": "live"
+      },
+      "player": {
+        "state": {
+          "health": 0,
+          "armor": 0,
+          "helmet": false
+        }
+      }
+    },
+    "added": {
+      "player": {
+        "weapons": {
+          "weapon_0": true,
+          "weapon_1": true
+        },
+        "team": true
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611436
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 0,
+      "team_ct": {
+        "score": 0
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "freezetime"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 300,
+        "round_kills": 0,
+        "round_killhs": 0
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 7,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 0,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 0
+      }
+    },
+    "previously": {
+      "player": {
+        "state": {
+          "money": 1000
+        },
+        "weapons": {
+          "weapon_1": {
+            "name": "weapon_usp_silencer",
+            "paintkit": "cu_kaiman",
+            "ammo_clip": 12,
+            "ammo_clip_max": 12,
+            "ammo_reserve": 24
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611436
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 0,
+      "team_ct": {
+        "score": 0
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "freezetime"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 300,
+        "round_kills": 0,
+        "round_killhs": 0
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "active"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 7,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 0,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 0
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_0": {
+            "state": "holstered"
+          },
+          "weapon_1": {
+            "state": "active"
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611438
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 0,
+      "team_ct": {
+        "score": 0
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 300,
+        "round_kills": 0,
+        "round_killhs": 0
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "active"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 7,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 0,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 0
+      }
+    },
+    "previously": {
+      "round": {
+        "phase": "freezetime"
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611443
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 0,
+      "team_ct": {
+        "score": 0
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 300,
+        "round_kills": 0,
+        "round_killhs": 0
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 7,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 0,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 0
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_0": {
+            "state": "active"
+          },
+          "weapon_1": {
+            "state": "holstered"
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611444
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 0,
+      "team_ct": {
+        "score": 0
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 450,
+        "round_kills": 1,
+        "round_killhs": 1
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 6,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 1,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 2
+      }
+    },
+    "previously": {
+      "player": {
+        "state": {
+          "money": 300,
+          "round_kills": 0,
+          "round_killhs": 0
+        },
+        "weapons": {
+          "weapon_1": {
+            "ammo_clip": 7
+          }
+        },
+        "match_stats": {
+          "kills": 0,
+          "score": 0
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611445
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 0,
+      "team_ct": {
+        "score": 0
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 600,
+        "round_kills": 2,
+        "round_killhs": 2
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 5,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 2,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 4
+      }
+    },
+    "previously": {
+      "player": {
+        "state": {
+          "money": 450,
+          "round_kills": 1,
+          "round_killhs": 1
+        },
+        "weapons": {
+          "weapon_1": {
+            "ammo_clip": 6
+          }
+        },
+        "match_stats": {
+          "kills": 1,
+          "score": 2
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611446
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 0,
+      "team_ct": {
+        "score": 0
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 600,
+        "round_kills": 2,
+        "round_killhs": 2
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 4,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 2,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 4
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_1": {
+            "ammo_clip": 5
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611447
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 0,
+      "team_ct": {
+        "score": 0
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 750,
+        "round_kills": 3,
+        "round_killhs": 3
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 3,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 3,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 6
+      }
+    },
+    "previously": {
+      "player": {
+        "state": {
+          "money": 600,
+          "round_kills": 2,
+          "round_killhs": 2
+        },
+        "weapons": {
+          "weapon_1": {
+            "ammo_clip": 4
+          }
+        },
+        "match_stats": {
+          "kills": 2,
+          "score": 4
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611451
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 0,
+      "team_ct": {
+        "score": 0
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 900,
+        "round_kills": 4,
+        "round_killhs": 4
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 2,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 4,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 8
+      }
+    },
+    "previously": {
+      "player": {
+        "state": {
+          "money": 750,
+          "round_kills": 3,
+          "round_killhs": 3
+        },
+        "weapons": {
+          "weapon_1": {
+            "ammo_clip": 3
+          }
+        },
+        "match_stats": {
+          "kills": 3,
+          "score": 6
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611453
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 0,
+      "team_ct": {
+        "score": 0
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 900,
+        "round_kills": 4,
+        "round_killhs": 4
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 1,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 4,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 8
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_1": {
+            "ammo_clip": 2
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611453
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 0,
+      "team_ct": {
+        "score": 0
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 82,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 900,
+        "round_kills": 4,
+        "round_killhs": 4
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 0,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 4,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 8
+      }
+    },
+    "previously": {
+      "player": {
+        "state": {
+          "health": 100
+        },
+        "weapons": {
+          "weapon_1": {
+            "ammo_clip": 1
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611454
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 0,
+      "team_ct": {
+        "score": 0
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 82,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 900,
+        "round_kills": 4,
+        "round_killhs": 4
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 0,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "reloading"
+        }
+      },
+      "match_stats": {
+        "kills": 4,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 8
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_1": {
+            "state": "active"
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611455
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 0,
+      "team_ct": {
+        "score": 0
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 82,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 900,
+        "round_kills": 4,
+        "round_killhs": 4
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 7,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 28,
+          "state": "reloading"
+        }
+      },
+      "match_stats": {
+        "kills": 4,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 8
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_1": {
+            "ammo_clip": 0,
+            "ammo_reserve": 35
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611456
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 0,
+      "team_ct": {
+        "score": 0
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 82,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 900,
+        "round_kills": 4,
+        "round_killhs": 4
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 7,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 28,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 4,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 8
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_1": {
+            "state": "reloading"
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611457
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 0,
+      "team_ct": {
+        "score": 0
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 82,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 900,
+        "round_kills": 4,
+        "round_killhs": 4
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 6,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 28,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 4,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 8
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_1": {
+            "ammo_clip": 7
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611458
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 0,
+      "team_ct": {
+        "score": 0
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 82,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 900,
+        "round_kills": 4,
+        "round_killhs": 4
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 5,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 28,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 4,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 8
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_1": {
+            "ammo_clip": 6
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611459
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 0,
+      "team_ct": {
+        "score": 0
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 82,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 900,
+        "round_kills": 4,
+        "round_killhs": 4
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 4,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 28,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 4,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 8
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_1": {
+            "ammo_clip": 5
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611460
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 0,
+      "team_ct": {
+        "score": 0
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 82,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 900,
+        "round_kills": 4,
+        "round_killhs": 4
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 3,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 28,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 4,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 8
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_1": {
+            "ammo_clip": 4
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611460
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 1,
+      "team_ct": {
+        "score": 0
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "over",
+      "win_team": "CT"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 82,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 3750,
+        "round_kills": 5,
+        "round_killhs": 5
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 2,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 28,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 5,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 1,
+        "score": 10
+      }
+    },
+    "previously": {
+      "map": {
+        "round": 0
+      },
+      "round": {
+        "phase": "live"
+      },
+      "player": {
+        "state": {
+          "money": 900,
+          "round_kills": 4,
+          "round_killhs": 4
+        },
+        "weapons": {
+          "weapon_1": {
+            "ammo_clip": 3
+          }
+        },
+        "match_stats": {
+          "kills": 4,
+          "mvps": 0,
+          "score": 8
+        }
+      }
+    },
+    "added": {
+      "round": {
+        "win_team": true
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611461
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 1,
+      "team_ct": {
+        "score": 1
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "over",
+      "win_team": "CT"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 82,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 3750,
+        "round_kills": 5,
+        "round_killhs": 5
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 2,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 28,
+          "state": "reloading"
+        }
+      },
+      "match_stats": {
+        "kills": 5,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 1,
+        "score": 10
+      }
+    },
+    "previously": {
+      "map": {
+        "team_ct": {
+          "score": 0
+        }
+      },
+      "player": {
+        "weapons": {
+          "weapon_1": {
+            "state": "active"
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611462
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 1,
+      "team_ct": {
+        "score": 1
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "over",
+      "win_team": "CT"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 82,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 3750,
+        "round_kills": 5,
+        "round_killhs": 5
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 7,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 23,
+          "state": "reloading"
+        }
+      },
+      "match_stats": {
+        "kills": 5,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 1,
+        "score": 10
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_1": {
+            "ammo_clip": 2,
+            "ammo_reserve": 28
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611463
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 1,
+      "team_ct": {
+        "score": 1
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "over",
+      "win_team": "CT"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 82,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 3750,
+        "round_kills": 5,
+        "round_killhs": 5
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 7,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 23,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 5,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 1,
+        "score": 10
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_1": {
+            "state": "reloading"
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611464
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 1,
+      "team_ct": {
+        "score": 1
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "over",
+      "win_team": "CT"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 82,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 3750,
+        "round_kills": 5,
+        "round_killhs": 5
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "active"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 7,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 23,
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 5,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 1,
+        "score": 10
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_0": {
+            "state": "holstered"
+          },
+          "weapon_1": {
+            "state": "active"
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611470
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 1,
+      "team_ct": {
+        "score": 1
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "freezetime"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 3750,
+        "round_kills": 0,
+        "round_killhs": 0
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "active"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 7,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 5,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 1,
+        "score": 10
+      }
+    },
+    "previously": {
+      "round": {
+        "phase": "over",
+        "win_team": "CT"
+      },
+      "player": {
+        "state": {
+          "health": 82,
+          "round_kills": 5,
+          "round_killhs": 5
+        },
+        "weapons": {
+          "weapon_1": {
+            "ammo_reserve": 23
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611472
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 1,
+      "team_ct": {
+        "score": 1
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "freezetime"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 650,
+        "round_kills": 0,
+        "round_killhs": 0
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 7,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_m4a1",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 5,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 1,
+        "score": 10
+      }
+    },
+    "previously": {
+      "player": {
+        "state": {
+          "money": 3750
+        },
+        "weapons": {
+          "weapon_0": {
+            "state": "active"
+          }
+        }
+      }
+    },
+    "added": {
+      "player": {
+        "weapons": {
+          "weapon_2": true
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611473
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 1,
+      "team_ct": {
+        "score": 1
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "freezetime"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 650,
+        "round_kills": 0,
+        "round_killhs": 0
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "active"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 7,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_m4a1",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 5,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 1,
+        "score": 10
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_0": {
+            "state": "holstered"
+          },
+          "weapon_2": {
+            "state": "active"
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611475
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 1,
+      "team_ct": {
+        "score": 1
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 650,
+        "round_kills": 0,
+        "round_killhs": 0
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "active"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 7,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_m4a1",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 5,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 1,
+        "score": 10
+      }
+    },
+    "previously": {
+      "round": {
+        "phase": "freezetime"
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611479
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 1,
+      "team_ct": {
+        "score": 1
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 650,
+        "round_kills": 0,
+        "round_killhs": 0
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 7,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "active"
+        },
+        "weapon_2": {
+          "name": "weapon_m4a1",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 5,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 1,
+        "score": 10
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_0": {
+            "state": "active"
+          },
+          "weapon_1": {
+            "state": "holstered"
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611482
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 1,
+      "team_ct": {
+        "score": 1
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 650,
+        "round_kills": 0,
+        "round_killhs": 0
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 6,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "active"
+        },
+        "weapon_2": {
+          "name": "weapon_m4a1",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 5,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 1,
+        "score": 10
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_1": {
+            "ammo_clip": 7
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611483
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 1,
+      "team_ct": {
+        "score": 1
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 800,
+        "round_kills": 1,
+        "round_killhs": 1
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 5,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "active"
+        },
+        "weapon_2": {
+          "name": "weapon_m4a1",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 6,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 1,
+        "score": 12
+      }
+    },
+    "previously": {
+      "player": {
+        "state": {
+          "money": 650,
+          "round_kills": 0,
+          "round_killhs": 0
+        },
+        "weapons": {
+          "weapon_1": {
+            "ammo_clip": 6
+          }
+        },
+        "match_stats": {
+          "kills": 5,
+          "score": 10
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611484
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 1,
+      "team_ct": {
+        "score": 1
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 800,
+        "round_kills": 1,
+        "round_killhs": 1
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 5,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_m4a1",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 6,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 1,
+        "score": 12
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_1": {
+            "state": "active"
+          },
+          "weapon_2": {
+            "state": "holstered"
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611494
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 1,
+      "team_ct": {
+        "score": 1
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 950,
+        "round_kills": 2,
+        "round_killhs": 1
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 5,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_m4a1",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 28,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 6,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 1,
+        "score": 12
+      }
+    },
+    "previously": {
+      "player": {
+        "state": {
+          "money": 800,
+          "round_kills": 1
+        },
+        "weapons": {
+          "weapon_2": {
+            "ammo_clip": 30
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611495
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 1,
+      "team_ct": {
+        "score": 1
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 950,
+        "round_kills": 2,
+        "round_killhs": 1
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 5,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_m4a1",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 24,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 7,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 1,
+        "score": 14
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_2": {
+            "ammo_clip": 28
+          }
+        },
+        "match_stats": {
+          "kills": 6,
+          "score": 12
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611496
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 1,
+      "team_ct": {
+        "score": 1
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 950,
+        "round_kills": 2,
+        "round_killhs": 1
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 5,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_m4a1",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 22,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 7,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 1,
+        "score": 14
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_2": {
+            "ammo_clip": 24
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611496
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 1,
+      "team_ct": {
+        "score": 1
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 65,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 1100,
+        "round_kills": 3,
+        "round_killhs": 1
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 5,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_m4a1",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 15,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 8,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 1,
+        "score": 16
+      }
+    },
+    "previously": {
+      "player": {
+        "state": {
+          "health": 100,
+          "money": 950,
+          "round_kills": 2
+        },
+        "weapons": {
+          "weapon_2": {
+            "ammo_clip": 22
+          }
+        },
+        "match_stats": {
+          "kills": 7,
+          "score": 14
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611497
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 1,
+      "team_ct": {
+        "score": 1
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 65,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 1100,
+        "round_kills": 3,
+        "round_killhs": 1
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 5,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_m4a1",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 14,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "reloading"
+        }
+      },
+      "match_stats": {
+        "kills": 8,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 1,
+        "score": 16
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_2": {
+            "ammo_clip": 15,
+            "state": "active"
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611498
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 1,
+      "team_ct": {
+        "score": 1
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 65,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 1100,
+        "round_kills": 3,
+        "round_killhs": 1
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 5,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_m4a1",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 74,
+          "state": "reloading"
+        }
+      },
+      "match_stats": {
+        "kills": 8,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 1,
+        "score": 16
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_2": {
+            "ammo_clip": 14,
+            "ammo_reserve": 90
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611500
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 1,
+      "team_ct": {
+        "score": 1
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 65,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 1100,
+        "round_kills": 3,
+        "round_killhs": 1
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 5,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_m4a1",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 74,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 8,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 1,
+        "score": 16
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_2": {
+            "state": "reloading"
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611501
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 1,
+      "team_ct": {
+        "score": 1
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 65,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 1100,
+        "round_kills": 3,
+        "round_killhs": 1
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "active"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 5,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_m4a1",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 74,
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 8,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 1,
+        "score": 16
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_0": {
+            "state": "holstered"
+          },
+          "weapon_2": {
+            "state": "active"
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611502
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 2,
+      "team_ct": {
+        "score": 1
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "over",
+      "win_team": "CT"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 65,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 4550,
+        "round_kills": 4,
+        "round_killhs": 1
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "active"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 5,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_m4a1",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 74,
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 9,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 2,
+        "score": 18
+      }
+    },
+    "previously": {
+      "map": {
+        "round": 1
+      },
+      "round": {
+        "phase": "live"
+      },
+      "player": {
+        "state": {
+          "money": 1100,
+          "round_kills": 3
+        },
+        "match_stats": {
+          "kills": 8,
+          "mvps": 1,
+          "score": 16
+        }
+      }
+    },
+    "added": {
+      "round": {
+        "win_team": true
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611503
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 2,
+      "team_ct": {
+        "score": 2
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "over",
+      "win_team": "CT"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 65,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 4550,
+        "round_kills": 4,
+        "round_killhs": 1
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "active"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 5,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_m4a1",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 74,
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 9,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 2,
+        "score": 18
+      }
+    },
+    "previously": {
+      "map": {
+        "team_ct": {
+          "score": 1
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611503
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 2,
+      "team_ct": {
+        "score": 2
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "over",
+      "win_team": "CT"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 65,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 4550,
+        "round_kills": 4,
+        "round_killhs": 1
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 5,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_m4a1",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 74,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 9,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 2,
+        "score": 18
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_0": {
+            "state": "active"
+          },
+          "weapon_2": {
+            "state": "holstered"
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611504
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 2,
+      "team_ct": {
+        "score": 2
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "over",
+      "win_team": "CT"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 65,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 4550,
+        "round_kills": 4,
+        "round_killhs": 1
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 5,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "active"
+        },
+        "weapon_2": {
+          "name": "weapon_m4a1",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 74,
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 9,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 2,
+        "score": 18
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_1": {
+            "state": "holstered"
+          },
+          "weapon_2": {
+            "state": "active"
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611505
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 2,
+      "team_ct": {
+        "score": 2
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "over",
+      "win_team": "CT"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 65,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 4550,
+        "round_kills": 4,
+        "round_killhs": 1
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "active"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 5,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_m4a1",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 74,
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 9,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 2,
+        "score": 18
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_0": {
+            "state": "holstered"
+          },
+          "weapon_1": {
+            "state": "active"
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611512
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 2,
+      "team_ct": {
+        "score": 2
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "freezetime"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 4550,
+        "round_kills": 0,
+        "round_killhs": 0
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "active"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 7,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_m4a1",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 9,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 2,
+        "score": 18
+      }
+    },
+    "previously": {
+      "round": {
+        "phase": "over",
+        "win_team": "CT"
+      },
+      "player": {
+        "state": {
+          "health": 65,
+          "round_kills": 4,
+          "round_killhs": 1
+        },
+        "weapons": {
+          "weapon_1": {
+            "ammo_clip": 5
+          },
+          "weapon_2": {
+            "ammo_reserve": 74
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611517
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 2,
+      "team_ct": {
+        "score": 2
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 4550,
+        "round_kills": 0,
+        "round_killhs": 0
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "active"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 7,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_m4a1",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 9,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 2,
+        "score": 18
+      }
+    },
+    "previously": {
+      "round": {
+        "phase": "freezetime"
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611526
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 2,
+      "team_ct": {
+        "score": 2
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 42,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 4550,
+        "round_kills": 0,
+        "round_killhs": 0
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "active"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 7,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_m4a1",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 9,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 2,
+        "score": 18
+      }
+    },
+    "previously": {
+      "player": {
+        "state": {
+          "health": 100
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611527
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 2,
+      "team_ct": {
+        "score": 2
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 0,
+        "armor": 0,
+        "helmet": false,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 4550,
+        "round_kills": 0,
+        "round_killhs": 0
+      },
+      "weapons": {},
+      "match_stats": {
+        "kills": 9,
+        "assists": 0,
+        "deaths": 1,
+        "mvps": 2,
+        "score": 18
+      }
+    },
+    "previously": {
+      "player": {
+        "state": {
+          "health": 42,
+          "armor": 100,
+          "helmet": true
+        },
+        "weapons": {
+          "weapon_0": {
+            "name": "weapon_knife",
+            "paintkit": "default",
+            "type": "Knife",
+            "state": "active"
+          },
+          "weapon_1": {
+            "name": "weapon_deagle",
+            "paintkit": "default",
+            "type": "Pistol",
+            "ammo_clip": 7,
+            "ammo_clip_max": 7,
+            "ammo_reserve": 35,
+            "state": "holstered"
+          },
+          "weapon_2": {
+            "name": "weapon_m4a1",
+            "paintkit": "default",
+            "type": "Rifle",
+            "ammo_clip": 30,
+            "ammo_clip_max": 30,
+            "ammo_reserve": 90,
+            "state": "holstered"
+          }
+        },
+        "match_stats": {
+          "deaths": 0
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611532
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 2,
+      "team_ct": {
+        "score": 2
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960265732",
+      "name": "Fred",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 2700,
+        "round_kills": 0,
+        "round_killhs": 0
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 7,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_m4a1",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 21,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "active"
+        },
+        "weapon_3": {
+          "name": "weapon_decoy",
+          "paintkit": "default",
+          "type": "Grenade",
+          "ammo_reserve": 1,
+          "state": "holstered"
+        },
+        "weapon_4": {
+          "name": "weapon_hegrenade",
+          "paintkit": "default",
+          "type": "Grenade",
+          "ammo_reserve": 1,
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 1,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 2
+      }
+    },
+    "previously": {
+      "player": {
+        "steamid": "76561197960430856",
+        "name": "seaN",
+        "state": {
+          "health": 0,
+          "armor": 0,
+          "helmet": false,
+          "money": 4550
+        },
+        "match_stats": {
+          "kills": 9,
+          "deaths": 1,
+          "mvps": 2,
+          "score": 18
+        }
+      }
+    },
+    "added": {
+      "player": {
+        "weapons": {
+          "weapon_0": true,
+          "weapon_1": true,
+          "weapon_2": true,
+          "weapon_3": true,
+          "weapon_4": true
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611533
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 2,
+      "team_ct": {
+        "score": 2
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960265732",
+      "name": "Fred",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 2700,
+        "round_kills": 0,
+        "round_killhs": 0
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 7,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_m4a1",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 17,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "active"
+        },
+        "weapon_3": {
+          "name": "weapon_decoy",
+          "paintkit": "default",
+          "type": "Grenade",
+          "ammo_reserve": 1,
+          "state": "holstered"
+        },
+        "weapon_4": {
+          "name": "weapon_hegrenade",
+          "paintkit": "default",
+          "type": "Grenade",
+          "ammo_reserve": 1,
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 1,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 2
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_2": {
+            "ammo_clip": 21
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611534
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 2,
+      "team_ct": {
+        "score": 2
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960265732",
+      "name": "Fred",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 2700,
+        "round_kills": 0,
+        "round_killhs": 0
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 7,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_m4a1",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 13,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "active"
+        },
+        "weapon_3": {
+          "name": "weapon_decoy",
+          "paintkit": "default",
+          "type": "Grenade",
+          "ammo_reserve": 1,
+          "state": "holstered"
+        },
+        "weapon_4": {
+          "name": "weapon_hegrenade",
+          "paintkit": "default",
+          "type": "Grenade",
+          "ammo_reserve": 1,
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 1,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 2
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_2": {
+            "ammo_clip": 17
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611535
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 2,
+      "team_ct": {
+        "score": 2
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960265732",
+      "name": "Fred",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 2700,
+        "round_kills": 0,
+        "round_killhs": 0
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 7,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_m4a1",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 12,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "active"
+        },
+        "weapon_3": {
+          "name": "weapon_decoy",
+          "paintkit": "default",
+          "type": "Grenade",
+          "ammo_reserve": 1,
+          "state": "holstered"
+        },
+        "weapon_4": {
+          "name": "weapon_hegrenade",
+          "paintkit": "default",
+          "type": "Grenade",
+          "ammo_reserve": 1,
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 1,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 2
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_2": {
+            "ammo_clip": 13
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611536
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 2,
+      "team_ct": {
+        "score": 2
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960265732",
+      "name": "Fred",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 2700,
+        "round_kills": 0,
+        "round_killhs": 0
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 7,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_m4a1",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 10,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "active"
+        },
+        "weapon_3": {
+          "name": "weapon_decoy",
+          "paintkit": "default",
+          "type": "Grenade",
+          "ammo_reserve": 1,
+          "state": "holstered"
+        },
+        "weapon_4": {
+          "name": "weapon_hegrenade",
+          "paintkit": "default",
+          "type": "Grenade",
+          "ammo_reserve": 1,
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 1,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 2
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_2": {
+            "ammo_clip": 12
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611537
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 2,
+      "team_ct": {
+        "score": 2
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960265732",
+      "name": "Fred",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 2700,
+        "round_kills": 0,
+        "round_killhs": 0
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 7,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_m4a1",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 9,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "active"
+        },
+        "weapon_3": {
+          "name": "weapon_decoy",
+          "paintkit": "default",
+          "type": "Grenade",
+          "ammo_reserve": 1,
+          "state": "holstered"
+        },
+        "weapon_4": {
+          "name": "weapon_hegrenade",
+          "paintkit": "default",
+          "type": "Grenade",
+          "ammo_reserve": 1,
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 1,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 2
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_2": {
+            "ammo_clip": 10
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611541
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 2,
+      "team_ct": {
+        "score": 2
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960265732",
+      "name": "Fred",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 2700,
+        "round_kills": 0,
+        "round_killhs": 0
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 7,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_m4a1",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 7,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "active"
+        },
+        "weapon_3": {
+          "name": "weapon_decoy",
+          "paintkit": "default",
+          "type": "Grenade",
+          "ammo_reserve": 1,
+          "state": "holstered"
+        },
+        "weapon_4": {
+          "name": "weapon_hegrenade",
+          "paintkit": "default",
+          "type": "Grenade",
+          "ammo_reserve": 1,
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 1,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 2
+      }
+    },
+    "previously": {
+      "player": {
+        "weapons": {
+          "weapon_2": {
+            "ammo_clip": 9
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611542
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 2,
+      "team_ct": {
+        "score": 2
+      },
+      "team_t": {
+        "score": 0
+      }
+    },
+    "round": {
+      "phase": "live"
+    },
+    "player": {
+      "steamid": "76561197960265732",
+      "name": "Fred",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 24,
+        "armor": 68,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 2700,
+        "round_kills": 0,
+        "round_killhs": 0
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 7,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_m4a1",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 0,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 90,
+          "state": "active"
+        },
+        "weapon_3": {
+          "name": "weapon_decoy",
+          "paintkit": "default",
+          "type": "Grenade",
+          "ammo_reserve": 1,
+          "state": "holstered"
+        },
+        "weapon_4": {
+          "name": "weapon_hegrenade",
+          "paintkit": "default",
+          "type": "Grenade",
+          "ammo_reserve": 1,
+          "state": "holstered"
+        }
+      },
+      "match_stats": {
+        "kills": 1,
+        "assists": 0,
+        "deaths": 0,
+        "mvps": 0,
+        "score": 2
+      }
+    },
+    "previously": {
+      "player": {
+        "state": {
+          "health": 100,
+          "armor": 100
+        },
+        "weapons": {
+          "weapon_2": {
+            "ammo_clip": 7
+          }
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611542
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 3,
+      "team_ct": {
+        "score": 2
+      },
+      "team_t": {
+        "score": 1
+      }
+    },
+    "round": {
+      "phase": "over",
+      "win_team": "T"
+    },
+    "player": {
+      "steamid": "76561197960265732",
+      "name": "Fred",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 0,
+        "armor": 0,
+        "helmet": false,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 5100,
+        "round_kills": 0,
+        "round_killhs": 0
+      },
+      "weapons": {},
+      "match_stats": {
+        "kills": 1,
+        "assists": 0,
+        "deaths": 1,
+        "mvps": 0,
+        "score": 2
+      }
+    },
+    "previously": {
+      "map": {
+        "round": 2,
+        "team_t": {
+          "score": 0
+        }
+      },
+      "round": {
+        "phase": "live"
+      },
+      "player": {
+        "state": {
+          "health": 24,
+          "armor": 68,
+          "helmet": true,
+          "money": 2700
+        },
+        "weapons": {
+          "weapon_0": {
+            "name": "weapon_knife",
+            "paintkit": "default",
+            "type": "Knife",
+            "state": "holstered"
+          },
+          "weapon_1": {
+            "name": "weapon_deagle",
+            "paintkit": "default",
+            "type": "Pistol",
+            "ammo_clip": 7,
+            "ammo_clip_max": 7,
+            "ammo_reserve": 35,
+            "state": "holstered"
+          },
+          "weapon_2": {
+            "name": "weapon_m4a1",
+            "paintkit": "default",
+            "type": "Rifle",
+            "ammo_clip": 0,
+            "ammo_clip_max": 30,
+            "ammo_reserve": 90,
+            "state": "active"
+          },
+          "weapon_3": {
+            "name": "weapon_decoy",
+            "paintkit": "default",
+            "type": "Grenade",
+            "ammo_reserve": 1,
+            "state": "holstered"
+          },
+          "weapon_4": {
+            "name": "weapon_hegrenade",
+            "paintkit": "default",
+            "type": "Grenade",
+            "ammo_reserve": 1,
+            "state": "holstered"
+          }
+        },
+        "match_stats": {
+          "deaths": 0
+        }
+      }
+    },
+    "added": {
+      "round": {
+        "win_team": true
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611543
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 3,
+      "team_ct": {
+        "score": 2
+      },
+      "team_t": {
+        "score": 1
+      }
+    },
+    "round": {
+      "phase": "over",
+      "win_team": "T"
+    },
+    "player": {
+      "steamid": "76561197960265731",
+      "name": "Albert",
+      "team": "T",
+      "activity": "playing",
+      "state": {
+        "health": 96,
+        "armor": 97,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 3750,
+        "round_kills": 3,
+        "round_killhs": 1
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife_t",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 7,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_sg556",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 67,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 3,
+        "assists": 1,
+        "deaths": 2,
+        "mvps": 1,
+        "score": 7
+      }
+    },
+    "previously": {
+      "player": {
+        "steamid": "76561197960265732",
+        "name": "Fred",
+        "team": "CT",
+        "state": {
+          "health": 0,
+          "armor": 0,
+          "helmet": false,
+          "money": 5100,
+          "round_kills": 0,
+          "round_killhs": 0
+        },
+        "match_stats": {
+          "kills": 1,
+          "assists": 0,
+          "deaths": 1,
+          "mvps": 0,
+          "score": 2
+        }
+      }
+    },
+    "added": {
+      "player": {
+        "weapons": {
+          "weapon_0": true,
+          "weapon_1": true,
+          "weapon_2": true
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611548
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 3,
+      "team_ct": {
+        "score": 2
+      },
+      "team_t": {
+        "score": 1
+      }
+    },
+    "round": {
+      "phase": "over",
+      "win_team": "T"
+    },
+    "player": {
+      "steamid": "76561197960265729",
+      "name": "Elmer",
+      "team": "T",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 4200,
+        "round_kills": 0,
+        "round_killhs": 0
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife_t",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_glock",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 20,
+          "ammo_clip_max": 20,
+          "ammo_reserve": 120,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_galilar",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 34,
+          "ammo_clip_max": 35,
+          "ammo_reserve": 90,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 0,
+        "assists": 0,
+        "deaths": 2,
+        "mvps": 0,
+        "score": 0
+      }
+    },
+    "previously": {
+      "player": {
+        "steamid": "76561197960265731",
+        "name": "Albert",
+        "state": {
+          "health": 96,
+          "armor": 97,
+          "money": 3750,
+          "round_kills": 3,
+          "round_killhs": 1
+        },
+        "weapons": {
+          "weapon_1": {
+            "name": "weapon_deagle",
+            "ammo_clip": 7,
+            "ammo_clip_max": 7,
+            "ammo_reserve": 35
+          },
+          "weapon_2": {
+            "name": "weapon_sg556",
+            "ammo_clip": 30,
+            "ammo_clip_max": 30,
+            "ammo_reserve": 67
+          }
+        },
+        "match_stats": {
+          "kills": 3,
+          "assists": 1,
+          "mvps": 1,
+          "score": 7
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611549
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 3,
+      "team_ct": {
+        "score": 2
+      },
+      "team_t": {
+        "score": 1
+      }
+    },
+    "round": {
+      "phase": "over",
+      "win_team": "T"
+    },
+    "player": {
+      "steamid": "76561197960265731",
+      "name": "Albert",
+      "team": "T",
+      "activity": "playing",
+      "state": {
+        "health": 96,
+        "armor": 97,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 3750,
+        "round_kills": 3,
+        "round_killhs": 1
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife_t",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_deagle",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 7,
+          "ammo_clip_max": 7,
+          "ammo_reserve": 35,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_sg556",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 67,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 3,
+        "assists": 1,
+        "deaths": 2,
+        "mvps": 1,
+        "score": 7
+      }
+    },
+    "previously": {
+      "player": {
+        "steamid": "76561197960265729",
+        "name": "Elmer",
+        "state": {
+          "health": 100,
+          "armor": 100,
+          "money": 4200,
+          "round_kills": 0,
+          "round_killhs": 0
+        },
+        "weapons": {
+          "weapon_1": {
+            "name": "weapon_glock",
+            "ammo_clip": 20,
+            "ammo_clip_max": 20,
+            "ammo_reserve": 120
+          },
+          "weapon_2": {
+            "name": "weapon_galilar",
+            "ammo_clip": 34,
+            "ammo_clip_max": 35,
+            "ammo_reserve": 90
+          }
+        },
+        "match_stats": {
+          "kills": 0,
+          "assists": 0,
+          "mvps": 0,
+          "score": 0
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611550
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 3,
+      "team_ct": {
+        "score": 2
+      },
+      "team_t": {
+        "score": 1
+      }
+    },
+    "round": {
+      "phase": "over",
+      "win_team": "T"
+    },
+    "player": {
+      "steamid": "76561197960265733",
+      "name": "Yanni",
+      "team": "T",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 4200,
+        "round_kills": 0,
+        "round_killhs": 0
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife_t",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_p250",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 13,
+          "ammo_clip_max": 13,
+          "ammo_reserve": 26,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_galilar",
+          "paintkit": "default",
+          "type": "Rifle",
+          "ammo_clip": 35,
+          "ammo_clip_max": 35,
+          "ammo_reserve": 90,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 0,
+        "assists": 0,
+        "deaths": 2,
+        "mvps": 0,
+        "score": 0
+      }
+    },
+    "previously": {
+      "player": {
+        "steamid": "76561197960265731",
+        "name": "Albert",
+        "state": {
+          "health": 96,
+          "armor": 97,
+          "money": 3750,
+          "round_kills": 3,
+          "round_killhs": 1
+        },
+        "weapons": {
+          "weapon_1": {
+            "name": "weapon_deagle",
+            "ammo_clip": 7,
+            "ammo_clip_max": 7,
+            "ammo_reserve": 35
+          },
+          "weapon_2": {
+            "name": "weapon_sg556",
+            "ammo_clip": 30,
+            "ammo_clip_max": 30,
+            "ammo_reserve": 67
+          }
+        },
+        "match_stats": {
+          "kills": 3,
+          "assists": 1,
+          "mvps": 1,
+          "score": 7
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611552
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 3,
+      "team_ct": {
+        "score": 2
+      },
+      "team_t": {
+        "score": 1
+      }
+    },
+    "round": {
+      "phase": "over",
+      "win_team": "T"
+    },
+    "player": {
+      "steamid": "76561197960265735",
+      "name": "Lester",
+      "team": "T",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 4750,
+        "round_kills": 2,
+        "round_killhs": 0
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife_t",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_glock",
+          "paintkit": "default",
+          "type": "Pistol",
+          "ammo_clip": 20,
+          "ammo_clip_max": 20,
+          "ammo_reserve": 120,
+          "state": "holstered"
+        },
+        "weapon_2": {
+          "name": "weapon_c4",
+          "paintkit": "default",
+          "type": "C4",
+          "state": "holstered"
+        },
+        "weapon_3": {
+          "name": "weapon_mac10",
+          "paintkit": "default",
+          "type": "Submachine Gun",
+          "ammo_clip": 30,
+          "ammo_clip_max": 30,
+          "ammo_reserve": 70,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 2,
+        "assists": 0,
+        "deaths": 2,
+        "mvps": 0,
+        "score": 4
+      }
+    },
+    "previously": {
+      "player": {
+        "steamid": "76561197960265733",
+        "name": "Yanni",
+        "state": {
+          "money": 4200,
+          "round_kills": 0
+        },
+        "weapons": {
+          "weapon_1": {
+            "name": "weapon_p250",
+            "ammo_clip": 13,
+            "ammo_clip_max": 13,
+            "ammo_reserve": 26
+          },
+          "weapon_2": {
+            "name": "weapon_galilar",
+            "type": "Rifle",
+            "ammo_clip": 35,
+            "ammo_clip_max": 35,
+            "ammo_reserve": 90,
+            "state": "active"
+          }
+        },
+        "match_stats": {
+          "kills": 0,
+          "score": 0
+        }
+      }
+    },
+    "added": {
+      "player": {
+        "weapons": {
+          "weapon_3": true
+        }
+      }
+    }
+  },
+  {
+    "provider": {
+      "name": "Counter-Strike: Global Offensive",
+      "appid": 730,
+      "version": 13519,
+      "steamid": "76561197960430856",
+      "timestamp": 1453611552
+    },
+    "map": {
+      "mode": "casual",
+      "name": "de_dust2",
+      "phase": "live",
+      "round": 3,
+      "team_ct": {
+        "score": 2
+      },
+      "team_t": {
+        "score": 1
+      }
+    },
+    "round": {
+      "phase": "freezetime"
+    },
+    "player": {
+      "steamid": "76561197960430856",
+      "name": "seaN",
+      "team": "CT",
+      "activity": "playing",
+      "state": {
+        "health": 100,
+        "armor": 100,
+        "helmet": true,
+        "flashed": 0,
+        "smoked": 0,
+        "burning": 0,
+        "money": 6950,
+        "round_kills": 0,
+        "round_killhs": 0
+      },
+      "weapons": {
+        "weapon_0": {
+          "name": "weapon_knife",
+          "paintkit": "default",
+          "type": "Knife",
+          "state": "holstered"
+        },
+        "weapon_1": {
+          "name": "weapon_usp_silencer",
+          "paintkit": "cu_kaiman",
+          "type": "Pistol",
+          "ammo_clip": 12,
+          "ammo_clip_max": 12,
+          "ammo_reserve": 24,
+          "state": "active"
+        }
+      },
+      "match_stats": {
+        "kills": 9,
+        "assists": 0,
+        "deaths": 1,
+        "mvps": 2,
+        "score": 18
+      }
+    },
+    "previously": {
+      "round": {
+        "phase": "over",
+        "win_team": "T"
+      },
+      "player": {
+        "steamid": "76561197960265735",
+        "name": "Lester",
+        "team": "T",
+        "state": {
+          "money": 4750,
+          "round_kills": 2
+        },
+        "weapons": {
+          "weapon_0": {
+            "name": "weapon_knife_t"
+          },
+          "weapon_1": {
+            "name": "weapon_glock",
+            "paintkit": "default",
+            "ammo_clip": 20,
+            "ammo_clip_max": 20,
+            "ammo_reserve": 120,
+            "state": "holstered"
+          },
+          "weapon_2": {
+            "name": "weapon_c4",
+            "paintkit": "default",
+            "type": "C4",
+            "state": "holstered"
+          },
+          "weapon_3": {
+            "name": "weapon_mac10",
+            "paintkit": "default",
+            "type": "Submachine Gun",
+            "ammo_clip": 30,
+            "ammo_clip_max": 30,
+            "ammo_reserve": 70,
+            "state": "active"
+          }
+        },
+        "match_stats": {
+          "kills": 2,
+          "deaths": 2,
+          "mvps": 0,
+          "score": 4
+        }
+      }
+    }
+  }
+]
